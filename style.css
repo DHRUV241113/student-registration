@@ -13,7 +13,8 @@ section{
     align-items: center;
     width: 100%;
     height: 100vh;
-    background: url("C:\\Users\\dp241\\Downloads\\Start Project Responsive Animated Login Form\\Start Project Responsive Animated Login Form\\bg.jpg") no-repeat;
+    background: url("bg.jpg") 
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     animation: animateBg 5s linear infinite;
@@ -120,20 +121,21 @@ button{
     font-weight: 500;
 }
 
-.register-link{
+.login-register{
     font-size: .9em;
     color: #fff;
     text-align: center;
     margin: 25px 0 10px;
 }
 
-.register-link p a{
+.login-register a{
     color: #fff;
     text-decoration: none;
     font-weight: 600;
 }
 
-.register-link p a:hover{
+
+..login-register a:hover{
     text-decoration: underline;
 }
 
