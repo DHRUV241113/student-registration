@@ -7,11 +7,11 @@
 
 <h1>Welcome to Student Registration System</h1>
 
-<img src="photo1.jpg" width="300">
+<img src="image1.jpg" width="300">
 
-<img src="photo2.jpg" width="300">
+<img src="image2.jpg" width="300">
 
-<img src="images/campus.jpg" width="300">
+
 
 <br><br>
 
